@@ -1,0 +1,1 @@
+start java -Xmx32m -Xms32m -jar GetShadowsocks.jar
